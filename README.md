@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratiksha! 
 - 👀 I’m interested in Research and Coding.
-- 🌱 I’m currently learning Python, ML, DL and WebD on Udemy.
+- 🌱 I’m currently working on AI-ML projects. 
 - 📫 How to reach me: https://www.linkedin.com/in/pratiksha-sahoo-864b00225
 
 <!---
