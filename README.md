@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratiksha248" alt="pratiksha248" /></a> </p>
 
-- 🌱 I’m currently learning: **Data science and data visualization tools.**
+- 🌱 I’m currently learning: **Data science and data visualization tools**
 
 - 📫 How to reach me: **sahoopratiksha24@gmail.com**
 
-- ⚡ Fun fact: **I am a detective.**
+- ⚡ Fun fact: **I am a detective**
 
 <h3 align="left">Connect with me over:</h3>
 <p align="left">
