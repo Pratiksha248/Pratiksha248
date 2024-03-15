@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratiksha248" alt="pratiksha248" /></a> </p>
 
-- 🌱 I’m currently learning: **Data science and data visualization tools**
+- 🌱 I’m currently learning: **Python, AI-ML, data science and data visualization tools**
 
 - 📫 How to reach me: **sahoopratiksha24@gmail.com**
 
