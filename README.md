@@ -1,4 +1,4 @@
-<h1 align="center">Hi!👋 This is Pratiksha Sahoo</h1>
+<h1 align="center">Hey, this is Pratiksha Sahoo! 👋 </h1>
 <h3 align="center">A passionate data scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksha248&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksha248" /> </p>
